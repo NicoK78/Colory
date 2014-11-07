@@ -1,0 +1,11 @@
+#color {
+	margin-top: 5%;
+	text-align: center;
+}
+
+body {
+    background-image: url("../img/game.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
